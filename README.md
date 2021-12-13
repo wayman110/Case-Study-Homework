@@ -1,2 +1,2 @@
-# Case-Study-Homework
+# CaseStudyHomework
 ANKR - self-sustaining blockchain framework
