@@ -1,7 +1,9 @@
 # CaseStudyHomework
 ANKR
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)]
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+
+<img src="https://github.com/wayman110/Case-Study-Homework/blob/main/ankr-logo%40logotyp.us.svg" alt="drawing" width="50"/>
 
 <img src="https://github.com/wayman110/Case-Study-Homework/blob/main/picture-frame-cabinet-with-scandinavian-home-interior.jpg" alt="drawing" width="50"/>
 
