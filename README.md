@@ -1,25 +1,16 @@
-# CaseStudyHomework
-ANKR
+# Case Study - Self sustaining blockchain framework
 
-[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-
-(https://www.ankr.com/)(https://nodesource.com/products/nsolid)
-
-<img src="https://github.com/wayman110/Case-Study-Homework/blob/main/ankr-logo%40logotyp.us.svg" alt="drawing" width="50"/> ANKR
-
-<img src="https://github.com/wayman110/Case-Study-Homework/blob/main/picture-frame-cabinet-with-scandinavian-home-interior.jpg" alt="drawing" width="50"/>
-
-# SELF SUSTAINING BLOCKCHAIN FRAMEWORK
+<img src="https://github.com/wayman110/Case-Study-Homework/blob/main/ANKR_Logo.PNG" alt="drawing" width="150"/>
 
 ## Overview and Origin
 
-> ANKR is based in Berkely CA and was founded in 2017 by co-founders Chandler Song, Ryan Fang & Stanley Wu. Developers of blockchain protocols seeking to improve efficientcy of public ledgers while providing a decentralized computing framework by reallocating cloud computing power left from idle data centers around the world. The model being deployed by ANKR could level the playing field by provding power to applicaitons, bitcoin mining, node hosting, the IOT and more. An estimated $27.3M has be received via Venture Capital Backed and Private Equity Backed funding.
+Based in Berkely CA ANKR was founded in 2017 by co-founders Chandler Song, Ryan Fang & Stanley Wu. Developers of blockchain protocols seeking to improve efficientcy of public ledgers and creating a decentralized self computing framework. Their solution reallocates cloud computing power from idle data centers around the world. The model being deployed by ANKR could level the playing field by provding power to applicaitons, bitcoin mining, node hosting, the IOT and more. An estimated $27.3M has be received via Venture Capital Backed and Private Equity Backed funding.
 
 ## Business Activities
 
-> Blockchain goes a long way to facilitate moving currency from one entity to another eleminating the need for traditional centralized institutions. The process of creating new blocks or mining in and of itself has created a subset of centrailized mining companines controlling the creation of new blockchains. These companies have huge amounts of computing power and resources eliminating the ability for most to compete in this space. Mining companies are rewarded for their work (proof of work) when they solve complex algorithms confirming a blocks authenticitiy. In the case of Bitcoin mining companies earn bitcoin currency as payment for their work being the first to add new blockchains. This model although disruptive and not easily susceptable to hacking because of the elimination of a central DB creates an opportunity for additional decentralization.  
+Blockchain goes a long way to facilitate moving currency from one entity to another eleminating the need for traditional centralized institutions. The process of creating new blocks or mining in and of itself has created a subset of centrailized mining companines controlling the creation of new blockchains. These companies have huge amounts of computing power and resources eliminating the ability for most to compete in this space. Mining companies are rewarded for their work (proof of work) when they solve complex algorithms confirming a blocks authenticitiy. In the case of Bitcoin mining companies earn bitcoin currency as payment for their work being the first to add new blockchains. This model although disruptive and not easily susceptable to hacking because of the elimination of a central DB creates an opportunity for additional decentralization.  
 
-With a solid leadship team having an innovative technology sttategy and expertise in varying aspects of Fintech. ANkR is working to decentralize cloud computing and making the blockchain token model accessible to all. The future could present the ability for eveyday people to let their PC's compute and compete for mining opportunities even while they sleep. Using the concept of proof of useful work (PoUW) implemented by ANKR. This energy efficient concept improves the PoW incentive system by utilizing idle resources to perform useful computations. The PoUW system makes use of trusted proctors that monitor computation actions and randomly gives rewards in predetermined intervals. Those with higher computing performance for the peirod will have an increased opportunity to earn rewards. The PoUW system incentivizes every user that performs work and gives high performers the opportunity to earn more.
+With a solid leadship team having an innovative technology strategy and expertise in varying aspects of Fintech. ANkR is working to decentralize cloud computing and making the blockchain token model accessible to all. The future could present the ability for eveyday people to let their PC's compute and compete for mining opportunities even while they sleep. Using the concept of proof of useful work (PoUW) implemented by ANKR. This energy efficient concept improves the PoW incentive system by utilizing idle resources to perform useful computations. The PoUW system makes use of trusted proctors that monitor computation actions and randomly gives rewards in predetermined intervals. Those with higher computing performance for the peirod will have an increased opportunity to earn rewards. The PoUW system incentivizes every user that performs work and gives high performers the opportunity to earn more.
 
 The PoUW system is a three tiered system that relies on
 * Miners - to utilize their computing power to solve complex hashing problems
