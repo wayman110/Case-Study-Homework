@@ -1,6 +1,8 @@
 # CaseStudyHomework
 ANKR
 
+![background image](https://github.com/wayman110/Case-Study-Homework/blob/main/picture-frame-cabinet-with-scandinavian-home-interior.jpg)
+
 # SELF SUSTAINING BLOCKCHAIN FRAMEWORK
 
 ## Overview and Origin
