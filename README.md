@@ -1,7 +1,7 @@
 # CaseStudyHomework
 ANKR
 
-<img src="https://github.com/wayman110/Case-Study-Homework/blob/main/picture-frame-cabinet-with-scandinavian-home-interior.jpg" alt="drawing" width="15"/>
+<img src="https://github.com/wayman110/Case-Study-Homework/blob/main/picture-frame-cabinet-with-scandinavian-home-interior.jpg" alt="drawing" width="23"/>
 
 # SELF SUSTAINING BLOCKCHAIN FRAMEWORK
 
