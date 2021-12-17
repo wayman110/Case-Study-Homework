@@ -1,6 +1,8 @@
 # CaseStudyHomework
 ANKR
 
+[![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)]
+
 <img src="https://github.com/wayman110/Case-Study-Homework/blob/main/picture-frame-cabinet-with-scandinavian-home-interior.jpg" alt="drawing" width="50"/>
 
 # SELF SUSTAINING BLOCKCHAIN FRAMEWORK
