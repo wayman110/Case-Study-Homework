@@ -39,6 +39,12 @@ With Web3 being highly focused on decentralization and more open source...applic
 
 Poised to compete with tech giants like Amazon and Alphabet who own the centralized cloud platforms. ANKR is set to put up a great fight in the next phase of the IOT and in the decentralized cloud computing space. Their cryptocurrency provides another area in which ANKR will compete and it has value today to purchase services on their network. All indications identify ANKR to have amazing upside using its innovative approach to PoUW to create blockchains and use of its cryptocurrency. 
 
+#
+## Results
+
+
+#
+#
 ###### Author: Phemex contributing writer July, 26, 2021 | https://phemex.com/academy/what-is-ankr-network
 ###### ANKR | https://www.ankr.com/about/our-purpose/
 ###### Author Mehdi The Cryptocurrency Post March 29, 2021 | https://thecryptocurrencypost.net/ankr/
