@@ -14,7 +14,7 @@ Blockchain goes a long way to facilitate moving currency from one entity to anot
 
 With a solid leadship team having an innovative technology strategy and expertise in varying aspects of Fintech. ANkR is working to decentralize cloud computing and making the blockchain token model accessible to all. The future could present the ability for eveyday people to let their PC's compute and compete for mining opportunities even while they sleep. Using the concept of proof of useful work (PoUW) implemented by ANKR. This energy efficient concept improves the PoW incentive system by utilizing idle resources to perform useful computations. The PoUW system makes use of trusted proctors that monitor computation actions and randomly gives rewards in predetermined intervals. Those with higher computing performance for the peirod will have an increased opportunity to earn rewards. The PoUW system incentivizes every user that performs work and gives high performers the opportunity to earn more.
 
-Unlike the PoW system where miners race to solve random algorithms a PoUW miner solves real-world problems to authenicate blockchains. They are energy efficient, makes good use of CPU computing power as well they maintain the integrity of the blockchain. 
+Unlike the PoW system where miners race to be the first to solve random algorithms a PoUW miner solves real-world problems to authenicate blockchains. They are energy efficient, makes good use of CPU computing power and most important they maintain the integrity of the blockchain.  
 
 #### The PoUW system is a three tiered system that relies on
 > * Miners - to utilize their computing power to solve complex hashing problems
@@ -28,17 +28,14 @@ Unlike the PoW system where miners race to solve random algorithms a PoUW miner 
 > * environmentally efficient mining and computing resource sharing
 > * reliable native oracle service 
 >
->using its strong collaborations ANKR launched more than 15K nodes globally and a supported ecosystem in excess of 50 proof of stake blockchains. They have blockchain projects with Acala, Polygo and Avalanche to enable one-click node deployment and hosting services. Realizing the abilito to expand into decentralized finance and moving away form being known only as a node hosting platform. ANKR is using its staking platform for DeFI trading, asset and lending services.
+>using its strong collaborations ANKR launched more than 15K nodes globally and a supported ecosystem in excess of 50 proof of stake blockchains. They have blockchain projects with Acala, Polygo and Avalanche to enable one-click node deployment and hosting services. Realizing the abilito to expand into decentralized finance and moving away from being known only as a node hosting platform. ANKR is using its staking platform for DeFI trading, asset and lending services.
 #
 
 ## Landscape
 
 ANKR has competitive advantages in the Decentralized Finance (DeFi), cloud transactions and crypto currency spaces. It is well positioned to be a Fintech disruptor for many years to come. By streamlining processes, improving the user experience and cutting cost making web3 technology accessilbe to everyone. ANKR's is on its wayy to helping with cloud computing decentralization and continual evlovement of the internet where applications run on blockchains. They are creating an efficient cost effective approach for everyone to participate using newer technologies to generate income opportunities.
 
-with their plan to continue increasing its stategic partnerships and developing its robust technology, analyst predicts theirs will be a leading cryptocurrency. 
-
-
-ANKR offers cost effective alternatives for developers and clients interested in deploying blockchain nodes. 
+With Web3 highly focused on decentralization and being more open source...applications will no longer be limited to big tech companies. Thus rights for earning money will be accessible to everyone. ANKR offers cost effective alternatives for developers and clients interested in deploying blockchain nodes. They make use of their native tokens in many ways such as node development, paying for app usage and voting for/against proposals. With an agressive plan to continue increasing its stategic partnerships and developing its robust technology, analyst predicts ANKR to become a sought after cryptocurrency. 
 
 
 ###### Author: Phemex contributing writer July, 26, 2021 | https://phemex.com/academy/what-is-ankr-network
