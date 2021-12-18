@@ -45,8 +45,8 @@ Poised to compete with tech giants like Amazon and Alphabet who own the centrali
 
 #
 #
-###### Author: Phemex contributing writer July, 26, 2021 | https://phemex.com/academy/what-is-ankr-network
-###### ANKR | https://www.ankr.com/about/our-purpose/
-###### Author Mehdi The Cryptocurrency Post March 29, 2021 | https://thecryptocurrencypost.net/ankr/
-###### Author Chandler Song June 30, 2018 | https://medium.com/ankr-network/why-i-started-ankr-49b226140555
-###### Author  Mark R. Hake, CFA Dec 2, 2021 | https://investorplace.com/2021/12/ankr-offers-multi-chain-solutions-but-may-face-selling-pressure/
+###### _Author: Phemex contributing writer July, 26, 2021 | https://phemex.com/academy/what-is-ankr-network
+###### _ANKR | https://www.ankr.com/about/our-purpose/
+###### _Author Mehdi The Cryptocurrency Post March 29, 2021 | https://thecryptocurrencypost.net/ankr/
+###### _Author Chandler Song June 30, 2018 | https://medium.com/ankr-network/why-i-started-ankr-49b226140555
+###### _Author  Mark R. Hake, CFA Dec 2, 2021 | https://investorplace.com/2021/12/ankr-offers-multi-chain-solutions-but-may-face-selling-pressure/
