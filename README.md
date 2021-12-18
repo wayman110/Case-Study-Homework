@@ -33,7 +33,7 @@ Unlike the PoW system where miners race to be the first to solve random algorith
 
 ## Landscape
 
-ANKR has competitive advantages in the Decentralized Finance (DeFi), cloud transactions and crypto currency spaces. It is well positioned to be a Fintech disruptor for many years to come. By streamlining processes, improving the user experience and cutting cost making web3 technology accessilbe to everyone. ANKR's is on its wayy to helping with cloud computing decentralization and continual evlovement of the internet where applications run on blockchains. With applicaitons supporting staking nodes, creating developer API's and enterprise solutions ANKR is creating an efficient, cost effective approach for everyone to participate using Web3 technologies to generate income opportunities.
+ANKR has competitive advantages in the Decentralized Finance (DeFi), cloud transactions and crypto currency spaces. It is well positioned to be a Fintech disruptor for many years to come. By streamlining processes, improving the user experience and cutting cost making Web3 technology accessilbe to everyone. ANKR's is on its wayy to helping with cloud computing decentralization and continual evlovement of the internet where applications run on blockchains. With applicaitons supporting staking nodes, creating developer API's and enterprise solutions ANKR is creating an efficient, cost effective approach for everyone to participate using Web3 technologies to generate income opportunities.
 
 With Web3 being highly focused on decentralization and more open source...applications will no longer be limited to big tech companies. Thus rights for earning money will be accessible to everyone. ANKR offers alternatives for developers and clients alike interested in deploying blockchain nodes. They make use of their native tokens in many ways such as node development, paying for app usage and voting for/against proposals. With an agressive plan to continue increasing its stategic partnerships and developing its robust technology, analyst predicts ANKR will become a sought after cryptocurrency.
 
@@ -41,6 +41,8 @@ Poised to compete with tech giants like Amazon and Alphabet who own the centrali
 
 #
 ## Results
+
+Although the next iteration of the internet is here, but still under construction. The solutions ANKR is developing will resolve many application based development needs. ANKR's blockchain-based solutions will assist everyone to develop decentralized applications easier and faster. They are needed especially developing next gen apps for Web3. Its features will make ANKR a comprehensive product for migration to the concepts of Web3. 
 
 
 #
