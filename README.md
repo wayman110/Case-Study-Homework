@@ -1,4 +1,4 @@
-# Case Study - Multi-Chain foundation for the crypto economy
+# Case Study - Multi-chain foundation for the crypto economy
 
 <img src="https://github.com/wayman110/Case-Study-Homework/blob/main/ANKR_Logo.PNG" alt="drawing" width="150"/>
 
