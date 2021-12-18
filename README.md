@@ -43,4 +43,4 @@ ANKR offers cost effective alternatives for developers and clients interested in
 
 ###### Author: Phemex contributing writer July, 26, 2021 | https://phemex.com/academy/what-is-ankr-network
 ###### ANKR | https://www.ankr.com/about/our-purpose/
-###### 
+###### Author Mehdi The Cryptocurrency Post March 29, 2021 | https://thecryptocurrencypost.net/ankr/
