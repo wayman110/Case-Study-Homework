@@ -42,8 +42,9 @@ Poised to compete with tech giants like Amazon and Alphabet who own the centrali
 #
 ## Results
 
-Although the next iteration of the internet is here, but still under construction. The solutions ANKR is developing will resolve many application based development needs. ANKR's blockchain-based solutions will assist everyone to develop decentralized applications easier and faster. They are needed especially developing next gen apps for Web3. Its features will make ANKR a comprehensive product for migration to the concepts of Web3. 
+Although the next iteration of the internet is here, but still under construction. The solutions ANKR is developing will help resolve many application based development needs. ANKR's blockchain-based solutions will assist everyone to develop decentralized applications easier and faster. They are needed especially developing next gen apps for Web3. Its features will make ANKR a comprehensive product for migration to the concepts of Web3. 
 
+ANKR has emerged as a proming altcoin in the market. Its value has seen growth of 5,000% over the past year and a half. Its price is hovering around $0.01 and despite recent crypto selloffs its value has been relatively stable. It is predicted to be a long term investment opportunity with a potential important crypto currency as the internet evolves. The goal of ANKR is to eliminate intermediaries allowing users the ability to retain contorl of their data. Ankr currtnly enjoys some well established partnerships with prominate blockchains, more than 50 blockchain protocols and use of its PoUW to solve real-world algorithms. It is among the top 100 cryptos with over 7 Billion in circulation. Its value saw significant increases this year as more people began using their network and realized it versatility and convienence. 
 
 #
 #
